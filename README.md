@@ -1,4 +1,6 @@
-![SupeNux_Logo_(updated_resized_and_white_bg)](https://github.com/user-attachments/assets/30712fd6-c094-474d-8560-85ccfb2ae7be)
+<p align="center">
+  <img width="460" height="300" src=https://github.com/user-attachments/assets/30712fd6-c094-474d-8560-85ccfb2ae7be>
+</p>
 # SupeNux
 This is the official source code for SupeNux, an OS made using Linux technology.
 
