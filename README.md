@@ -29,5 +29,5 @@ What the license bascially states is:
 - If any damages has occured with someone with the SupeNux OS, Ritvik Gautam is **NOT** responsible for **ANY** of the damages created, especially if it is caused by third-party users, like companies/organizations, and more.
 
 **Conclusion - Agreement Statement**
-- When the user uses the SupeNux software, they agree to the appropriate license of SupeNux, and if they do not agree to the license, they cannot view, modify, and use this software in any way. If you *have* to, for example, office purposes, please let your employing company/organization, as they have already agreed to this license for commercial use.
+- When the user uses the SupeNux software, they agree to the appropriate license of SupeNux, and if they do not agree to the license, they cannot view, modify, and use this software in any way. If you *have* to, for example, office purposes, please let your employing company/organization know, as they have already agreed to this license for commercial use.
 
