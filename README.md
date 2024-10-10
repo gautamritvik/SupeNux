@@ -1,6 +1,7 @@
 <p align="center">
   <img width="460" height="460" src=https://github.com/user-attachments/assets/30712fd6-c094-474d-8560-85ccfb2ae7be>
 </p>
+
 <p align="center">
   <a href="https://github.com/gautamritvik/SupeNux-Logos">Click this text to go to the GitHub page for the logos for SupeNux, and the logos' license.</a>
 </p>
