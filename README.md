@@ -6,7 +6,7 @@
   <a href="https://github.com/gautamritvik/SupeNux-Logos">Click this text to go to the GitHub page for the logos for SupeNux, and the logos' license.</a>
 </p>
 
-# About
+# About SupeNux
 This is the official source code for SupeNux, an OS made on Linux technology. SupeNux is a AI-powered and powerful OS, with capabilities that even Linux can't do in someways. Here are some (planned) features:    
 **1. More clean homescreen**
 - With the new and original homescreen design, with the start menu as simple as a red dot on the bottom-left corner. When you click the red dot, you get the small start menu, which is a bar with apps on the bottom. Then, on the ball, there is a little arrow symbol right next to it. When you drag that to the top-right to the screen, you can get the full start menu, which is a fullscreen computer tab with all of the apps you have on your computer.
