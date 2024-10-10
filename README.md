@@ -12,7 +12,7 @@ This is the official source code for SupeNux, an OS made on Linux technology.
 This is the GitHub page to the (custom-made) license of SupeNux: https://github.com/gautamritvik/SupeNux/blob/main/LICENSE
 **⬆️ You can find the license by clicking the "License" tab above all this text too. ⬆️**
 
-What the license bascially states is:
+What the license bascially states is:     
 **1. Modification and Use**
     - The modifier (which is the person who distributes a modified version of SupeNux) HAS to give the source code, they cannot sell the source code/modified version of SupeNux, and they cannot distribute closed-source versions of a modified version of SupeNux. They also have to state somewhere where everyone can see that they made their modified OS based on Ritvik Gautam's OS SupeNux.
     
