@@ -1,13 +1,15 @@
 <p align="center">
-  <img width="460" height="460" src=https://github.com/user-attachments/assets/30712fd6-c094-474d-8560-85ccfb2ae7be>
+  <img width="200" height="200" src=https://github.com/user-attachments/assets/30712fd6-c094-474d-8560-85ccfb2ae7be>
 </p>
 
 <p align="center">
   <a href="https://github.com/gautamritvik/SupeNux-Logos">Click this text to go to the GitHub page for the logos for SupeNux, and the logos' license.</a>
 </p>
 
-# SupeNux
-This is the official source code for SupeNux, an OS made on Linux technology.
+# About
+This is the official source code for SupeNux, an OS made on Linux technology. SupeNux is a AI-powered and powerful OS, with capabilities that even Linux can't do in someways. Here are some (planned) features:    
+**1. More clean homescreen**
+- With the new and original homescreen design, with the start menu as simple as a red dot on the bottom-left corner. When you click the red dot, you get the small start menu, which is a bar with apps on the bottom. Then, on the ball, there is a little arrow symbol right next to it. When you drag that to the top-right to the screen, you can get the full start menu, which is a fullscreen computer tab with all of the apps you have on your computer.
   
 # License
 This is the GitHub page to the (custom-made) license of SupeNux: https://github.com/gautamritvik/SupeNux/blob/main/LICENSE
@@ -24,7 +26,8 @@ What the license bascially states is:
 - When the companies use the software, they also have to make at least **one** open-source contribution to SupeNux, like advancements in the source code, bug fixes (they can do that on GitHub), donating to the SupeNux project, and more. They also have to donate to at least **one** charity of **any** kind that supports good causes, helps different types of life in need, and more (some suggestions: St. Judes Children's Research Hospital, Feeding America, Direct Relief, Good 360, United Way Worldwide, etc.), and the amount they have to donate depends on the nature and environment SupeNux is being used in (small businesses = ~$100+. Big businesses = ~$1,000+).
     
 **3. Attribution**
-- As stated in "1. Modification and Use" and "2. Commercial Use", you have to state somewhere where everyone can see that they made their modified OS based on Ritvik Gautam's OS SupeNux.
+- As stated in "1. Modification and Use", you have to state somewhere where everyone can see that they made their modified OS based on Ritvik Gautam's OS SupeNux.
+- For companies/organizations, as stated in "2. Commercial Use", they have to state somewhere where everyone can see that they use Ritvik Gautam's OS SupeNux for office and other purposes.
     
 **4. Liability**
 - If any damages has occured with someone with the SupeNux OS, Ritvik Gautam is **NOT** responsible for **ANY** of the damages created, especially if it is caused by third-party users, like companies/organizations, and more.
