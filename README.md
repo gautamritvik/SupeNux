@@ -12,7 +12,6 @@ This is the official source code for SupeNux, an OS made on Linux technology. Su
 - With the new and original homescreen design, with the start menu as simple as a red dot on the bottom-left corner. When you click the red dot, you get the small start menu, which is a bar with apps on the bottom. Then, on the ball, there is a little arrow symbol right next to it. When you drag that to the top-right to the screen, you can get the full start menu, which is a fullscreen computer tab with all of the apps you have on your computer.
 
 **2. New terminal and better syntax**
-- 
   
 # License
 This is the GitHub page to the (custom-made) license of SupeNux: https://github.com/gautamritvik/SupeNux/blob/main/LICENSE
