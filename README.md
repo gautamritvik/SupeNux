@@ -7,12 +7,13 @@
 </p>
 
 # About SupeNux
-This is the official source code for SupeNux, an OS made on Linux technology. SupeNux is a AI-powered and powerful OS, with capabilities that even Linux can't do in someways. Here are some (planned) features:         
+This is the official source code for SupeNux, an OS made on Linux technology. SupeNux is a AI-powered and powerful OS, with capabilities that (no offense,) even Linux can't do in someways. Here are some (planned) features:         
 **1. Clean homescreen**
 - With the new and original homescreen design, with the start menu as simple as a red dot on the bottom-left corner. When you click the red dot, you get the "start miniu", which is "mini" + "menu", which is a bar with apps on the bottom. Then, on the ball, there is a little arrow symbol right next to it. When you drag that to the top-right to the screen, you can get the big start menu, which is a fullscreen computer tab with all of the apps you have on your computer.
 - On the "start miniu",  there is a search bar at the end, and you can search for apps on your computer.
 
 **2. New terminal and better syntax**
+- With the new CLI for SupeNux called NuxShell, you can now have better and understandable syntax that anyone can adapt to *now*. Instead "lsblk", it's now just "system -info". See? Not **that** hard!
   
 # License
 This is the GitHub page to the (custom-made) license of SupeNux: https://github.com/gautamritvik/SupeNux/blob/main/LICENSE
