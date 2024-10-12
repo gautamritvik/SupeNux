@@ -13,7 +13,8 @@ This is the official source code for SupeNux, an OS made on Linux technology. Su
 - On the "start miniu",  there is a search bar at the end, and you can search for apps on your computer.
 
 **2. New terminal and better syntax**
-- With the new CLI for SupeNux called NuxShell, you can now have better and understandable syntax that anyone can adapt to *now*. Instead "lsblk", it's now just "system -info". See? Not **that** hard!
+- With the new CLI for SupeNux called NuxShell, you can now have better and understandable syntax that anyone can adapt to *now*. Instead "lsblk", it's now just "system.disk -info". See? Not **that** hard!
+- If you need help with the list of commands, just type in the command "help" to get a list of commands. 
   
 # License
 This is the GitHub page to the (custom-made) license of SupeNux: https://github.com/gautamritvik/SupeNux/blob/main/LICENSE
