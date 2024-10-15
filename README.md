@@ -6,6 +6,10 @@
   <a href="https://github.com/gautamritvik/SupeNux-Logos">Click this text to go to the GitHub page for the logos for SupeNux, and the logos' license.</a>
 </p>
 
+# UPDATES:
+- You can now report your issues in the Issues tab above on this GitHub page!
+- NuxShell has made some **BIG** advancements! Go to it's GitHub page at https://www.github.com/gautamritvik/SupeNux-NuxShell
+
 # About SupeNux
 This is the official source code for SupeNux, an OS made on Linux technology. SupeNux is a AI-powered and powerful OS, with capabilities that (no offense) even Linux can't do in someways. Here are some (planned) features:         
 **1. Clean homescreen**
