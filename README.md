@@ -8,7 +8,7 @@
 
 # UPDATES:
 - You can now report your issues in the Issues tab above on this GitHub page!
-- NuxShell has made some **BIG** advancements! Go to it's GitHub page at https://www.github.com/gautamritvik/SupeNux-NuxShell
+- SupeNux's new CLI NuxShell has made some **BIG** advancements! Go to it's GitHub page at https://www.github.com/gautamritvik/SupeNux-NuxShell
 
 # About SupeNux
 This is the official source code for SupeNux, an OS made on Linux technology. SupeNux is a AI-powered and powerful OS, with capabilities that (no offense) even Linux can't do in someways. Here are some (planned) features:         
