@@ -6,10 +6,6 @@
   <a href="https://github.com/gautamritvik/SupeNux-Logos">Click this text to go to the GitHub page for the logos for SupeNux, and the logos' license.</a>
 </p>
 
-# UPDATES:
-- You can now report your issues in the Issues tab above on this GitHub page!
-- SupeNux's new CLI NuxShell has made some **BIG** advancements! Go to it's GitHub page at https://www.github.com/gautamritvik/SupeNux-NuxShell
-
 # About SupeNux
 This is the official source code for SupeNux, an OS made on Linux technology. SupeNux is a AI-powered and powerful OS, with capabilities that (no offense) even Linux can't do in someways. Here are some (planned) features:         
 **1. Clean homescreen**
@@ -19,6 +15,10 @@ This is the official source code for SupeNux, an OS made on Linux technology. Su
 **2. New terminal and better syntax**
 - With the new CLI for SupeNux called NuxShell, you can now have better and understandable syntax that anyone can understand and remember now. Instead "lsblk", it's now just "system.disk -info". See? Makes more sense and easy to remember!
 - If you need help with the list of commands, just type in the command "help" to get a list of commands. 
+
+# UPDATES:
+- You can now report your issues in the Issues tab above on this GitHub page!
+- SupeNux's new CLI NuxShell has made some **BIG** advancements! Go to it's GitHub page at https://www.github.com/gautamritvik/SupeNux-NuxShell
   
 # License
 This is the GitHub page to the (custom-made) license of SupeNux: https://github.com/gautamritvik/SupeNux/blob/main/LICENSE
