@@ -21,8 +21,8 @@ This is the official source code for SupeNux, an OS made on Linux technology. Su
 - SupeNux's new CLI NuxShell has made some **BIG** advancements! Go to it's GitHub page at https://www.github.com/gautamritvik/SupeNux-NuxShell
   
 # License
+⬆️ (You can find the license by clicking the "License" tab above ALL this text too.) ⬆️
 This is the GitHub page to the (custom-made) license of SupeNux: https://github.com/gautamritvik/SupeNux/blob/main/LICENSE
-**⬆️ You can find the license by clicking the "License" tab above all this text too. ⬆️**
 
 What the license bascially states is:     
 **1. Modification and Use**
