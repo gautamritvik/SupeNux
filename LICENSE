@@ -7,6 +7,8 @@ Copyright (C) 2024, Ritvik Gautam. All rights reserved.
 
 Please note that the word “software” in this document means the OS SupeNux, which was made by Ritvik Gautam and is based on Linux technology, that the word “modified” in this document means direct modifications and derivative works, and the word “companies/organizations” in this document means the commercial businesses that will use this software (SupeNux OS).
 
+Please note that the words "source code" also refers to the SupeNux Raspberry Pi .img file which is open to the public on GitHub at https://github.com/gautamritvik/SupeNux/SupeNux-Raspberry-Pi.md, and the .img file should be treated with the EXACT same terms below as you would with the source code.
+
 This license agreement shall be governed by and construed following the laws of the state of Florida in the United States of America. Any disputes arising from this agreement shall be subjected to the jurisdiction of the courts located in the state of Florida in the United States of America. 
 
 NOTICE: You can only view, modify, and use this software ONLY if you agree to follow the set of rules in this license agreement. If you do not, please do not view, modify, or use this software in any way. If you have to use this software for office or other purposes, please let your employing company/organization or mandating person/entity know that you don't agree to the license of SupeNux, as they have already agreed to the license (for office computing in their offices, if they are a company/organization).
