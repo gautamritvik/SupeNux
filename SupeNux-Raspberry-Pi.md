@@ -1,10 +1,11 @@
-## SupeNux Raspberry Pi .img file
-Here is the SupeNux Raspberry Pi .img file which has SupeNux which was initialized by [Buildroot](https://buildroot.org) on Ubuntu. NOTE: When using this .img file, DO NOT forget to follow the SupeNux license. Click [here](https://github.com/gautamritvik/SupeNux/blob/main/LICENSE) for the SupeNux license.
+## Welcome
+Welcome to the page to get your SupeNux Raspberry Pi .img file which has SupeNux, initialized by [Buildroot](https://buildroot.org) on Ubuntu. NOTE: When using this .img file, DO NOT forget to follow the SupeNux license. Click [here](https://github.com/gautamritvik/SupeNux/blob/main/LICENSE) for the SupeNux license.
 
 ## Requirements
 - Physical SD card with 200 MB or more
 - Raspberry Pi with SD card port (Raspberry Pi Keyboard will **NOT** work as it is a ***accessory*** for the Raspberry Pi, not a computing module.)
 - Computer
+- Computer's local terminal
 
 Note: When you open the link below, it will say "No preview available", but when you see the option, click the button "Download" to get the .img file onto your computer. If you get redirected to another link saying:
 
