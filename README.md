@@ -17,6 +17,7 @@ This is the official source code for SupeNux, an OS made on Linux technology. Su
 - If you need help with the list of commands, just type in the command "help" to get a list of commands. 
 
 # UPDATES
+- (11/16/2024. HUGER BENCHMARK!!) SupeNux is now officially **available**!!! This version of SupeNux is made for Raspberry Pi, so this version of SupeNux is a Raspberry Pi distro. Click [here]()
 - (11/8/2024, HUGE BENCHMARK!!) SupeNux is now officially in production! It was booted and is now working on a GUI-edited version of the Ubuntu Server Version 24.04.1 LTS. Ubuntu (SupeNux) was booted off a 3.75 GB pendrive onto a used HP Pavilion p7-1587c Desktop PC bought off Facebook Marketplace. It has a 64 GB Samsung Solid State Drive that has Windows 10 on it, a 1 TB Western Digital WD Blue Desktop Hard Drive which USED to have Windows 7 but now has SupeNux (Ubuntu at the moment), it has a ripped-off optical drive cover panel, and a ripped-out mechanical button. PLEASE wish me (and maybe contribute too, like helping me with some processes or questions I have, or maybe contributing after I have to source code all ready to publish on GitHub) all the best so my OS can be open to the public for everyone, including you, to see! Thank you so much!
 - You can now report your issues in the Issues tab above on this GitHub page!
 - SupeNux's new CLI NuxShell has made some **BIG** advancements! Go to it's GitHub page at https://www.github.com/gautamritvik/SupeNux-NuxShell
