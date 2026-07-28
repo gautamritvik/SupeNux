@@ -7,7 +7,7 @@
 </p>
 
 # About SupeNux
-This is the official source code for SupeNux, an OS made on Linux technology. SupeNux is a AI-powered and powerful OS, with capabilities that (no offense) even Linux can't do in someways. Here are some ***planned*** features:         
+This is the official source code for SupeNux, an OS made on Ubuntu. SupeNux is a AI-powered and powerful OS, with capabilities that (no offense) even Linux can't do in someways. Here are some ***planned*** features:         
 **1. Clean homescreen**
 - With the new and original homescreen design, with the start menu as simple as a red dot on the bottom-left corner. When you click the red dot, you get the "start miniu", which is "mini" + "menu", which is a bar with apps on the bottom. Then, on the ball, there is a little arrow symbol right next to it. When you drag that to the top-right to the screen, you can get the big start menu, which is a fullscreen computer tab with all of the apps you have on your computer.
 - On the "start miniu",  there is a search bar at the end, and you can search for apps on your computer.
@@ -658,7 +658,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    SupeNux is a OS made on Linux technology.
+    SupeNux is a OS made on Ubuntu.
     Copyright (C) 2024  Ritvik Gautam
 
     This program is free software: you can redistribute it and/or modify
